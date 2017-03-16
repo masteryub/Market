@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Market</string>
+
+    <string name="home">首页</string>
+    <string name="find">发现</string>
+    <string name="catagory">分类</string>
+    <string name="cart">购物车</string>
+    <string name="mine">我的</string>
+    <string name="title_activity_ware_detail">WareDetailActivity</string>
+    <string name="share">分享</string>
+</resources>
